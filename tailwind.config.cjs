@@ -3,10 +3,18 @@ module.exports = {
   content: ["./index.html", "./main.js"],
   theme: {
     extend: {
+      screens: {
+        xs: "425px",
+      },
       colors: {
-        brg: "#171819",
+        bkg: "#171819",
         muted: "#c9cbcf",
         accent: "#66ccc1",
+      },
+      dropShadow: {
+        "text-sm": "1px 1px 0px rgba(0, 0, 0, 90)",
+        "text-md": "1px 2px 0px rgba(0, 0, 0, 90)",
+        "text-lg": "1px 4px 0px rgba(0, 0, 0, 90)",
       },
       container: {
         center: true,
