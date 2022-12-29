@@ -1,6 +1,10 @@
 # landing-page
 
-You can see [landing-page](https://landing-page-zeta-peach.vercel.app/).
+## go to website [Landing Page](https://landing-page-zeta-peach.vercel.app/)
+
+<b>coded by [Launchy](https://linklaunchy.vercel.app/launchy)</b>
+
+**HAVE FUN 👌**
 
 ## Project setup
 
